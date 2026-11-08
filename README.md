@@ -45,5 +45,4 @@ I'm looking for opportunities as a Junior Backend Developer, including full-time
 
 ## Contact
 
-- GitHub: [77hesham](https://github.com/77hesham)
 - LinkedIn: [Add your LinkedIn URL]
