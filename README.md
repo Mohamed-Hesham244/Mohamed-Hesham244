@@ -2,47 +2,34 @@
 
 ### PHP Backend Developer | Laravel | MySQL
 
-I'm a Backend Developer passionate about building web applications and developing reliable backend solutions.
+I'm a PHP Backend Developer focused on building reliable and maintainable web applications using Laravel and MySQL.
 
-I primarily work with PHP and Laravel, focusing on writing clean, organized, and maintainable code.
-
-I enjoy solving problems, learning new technologies, and turning ideas into functional applications.
+I enjoy solving problems, designing backend functionality, and turning business requirements into practical solutions.
 
 ## About Me
 
-- Focused on Backend Development using PHP and Laravel.
-- Experienced in working with MySQL databases.
-- Interested in Authentication, Authorization, and application security.
-- Interested in building and working with RESTful APIs.
-- Familiar with Git, GitHub, and Postman.
-- Currently working on a Warehouse Management System for a real-world client.
-- Always learning and improving my backend development skills.
-- Looking forward to growing as a Backend Developer and contributing to real-world projects.
+- Developing backend applications using PHP and Laravel.
+- Working with MySQL databases.
+- Familiar with Authentication and Authorization.
+- Interested in RESTful API development and application security.
+- Using Git, GitHub, and Postman in my development workflow.
+- Currently building the backend of a Warehouse Management System for a real-world client.
 
 ## Technical Skills
 
-**Programming Language**
-- PHP
-
-**Framework**
-- Laravel
-
-**Database**
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- Postman
+- **Language:** PHP
+- **Framework:** Laravel
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Postman
 
 ## Current Focus
 
-Currently developing a Warehouse Management System using Laravel and MySQL, focusing on implementing real-world business requirements and backend functionality.
+Improving my backend development skills through real-world projects, with a focus on clean code, database design, and practical business logic.
 
 ## Career Goals
 
-I'm looking for opportunities as a Junior Backend Developer, including full-time positions, internships, and freelance projects.
+Seeking Junior PHP Backend Developer opportunities, internships, and freelance projects.
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn URL]
+- **LinkedIn:** Add your LinkedIn URL
